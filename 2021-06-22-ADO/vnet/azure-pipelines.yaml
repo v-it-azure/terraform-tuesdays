@@ -174,7 +174,7 @@ stages:
     - task: ManualValidation@0
       timeoutInMinutes: 60
       inputs:
-        notifyUsers: 'ned@nedinthecloud.com'
+        notifyUsers: 'epingel@vermeer.com'
         instructions: 'Review the plan in the next hour'
 
 - stage: Apply
